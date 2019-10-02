@@ -1,0 +1,22 @@
+{
+    "name": "testorg/testpackage",
+    "description": "sample composer app",
+    "type": "project",
+    "require": {
+        "league/commonmark": "0.18.2",
+        "librenms/librenms": "1.52",
+        "yii2mod/yii2-cms": "1.9.1",
+        "api-platform/core": "2.4.5",
+        "getgrav/grav": "1.6.15",
+        "bagisto/bagisto": "0.1.4",
+        "bolt/bolt": "3.6.6",
+        "silverstripe/framework": "4.4.1",
+        "silverstripe/cms": "4.4.1"
+    },
+    "authors": [
+        {
+            "name": "OpenSource Maintainer",
+            "email": "opensourceisawesome@demo.demo.com"
+        }
+    ]
+}
