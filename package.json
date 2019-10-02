@@ -1,0 +1,9 @@
+{
+  "name": "auto-generated-test-manifest",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "cryo": "0.0.1",
+    "html-pdf": "2.2.0"
+  }
+}
