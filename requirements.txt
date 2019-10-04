@@ -1,0 +1,2 @@
+many-versioned-wheel==0.2.0
+tryton==4.0.16
