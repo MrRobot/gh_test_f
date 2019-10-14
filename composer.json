@@ -11,7 +11,8 @@
         "bagisto/bagisto": "0.1.4",
         "bolt/bolt": "3.6.6",
         "silverstripe/framework": "4.4.1",
-        "silverstripe/cms": "4.4.1"
+        "silverstripe/cms": "4.4.1",
+        "yii2mod/yii2-cms": "1.9.1"
     },
     "authors": [
         {
