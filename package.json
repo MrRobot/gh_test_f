@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "cryo": "0.0.1",
-    "html-pdf": "2.2.0"
+    "html-pdf": "2.2.0",
+    "swagger-ui": "3.23.10"
   }
 }
