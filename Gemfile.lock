@@ -49,7 +49,7 @@ GEM
       edge_rider (>= 0.3.0)
       memoized (>= 1.0.2)
       rails (>= 3.2)
-    crass (1.0.4)
+    crass (1.0.5)
     edge_rider (1.0.0)
       activerecord
     erubi (1.9.0)
@@ -59,7 +59,7 @@ GEM
       tilt
     i18n (1.6.0)
       concurrent-ruby (~> 1.0)
-    loofah (2.2.3)
+    loofah (2.3.1)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
     mail (2.7.1)
@@ -78,7 +78,7 @@ GEM
     mustermann (1.0.3)
     netaddr (2.0.3)
     nio4r (2.5.2)
-    nokogiri (1.10.4)
+    nokogiri (1.10.5)
       mini_portile2 (~> 2.4.0)
     rack (2.0.7)
     rack-protection (2.0.1)
